@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-18T07:36:20.226Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Safari/605.1.15" etag="6Yh1sKugCX6Yh7xCLUvE" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-18T07:37:49.402Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Safari/605.1.15" etag="FDdYdepr7oepsJbazBIk" version="13.6.2" type="github">
   <diagram id="-95pvxMP9tnITGbI-VLl" name="Page-1">
     <mxGraphModel dx="830" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,13 +92,13 @@
         <mxCell id="9rIJMRtblO_9q7PCspa--36" value="敏感实体列表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
           <mxGeometry x="180" y="658" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9rIJMRtblO_9q7PCspa--40" value="OCR服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="9rIJMRtblO_9q7PCspa--40" value="OCR服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="510" y="136" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9rIJMRtblO_9q7PCspa--41" value="NER服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="9rIJMRtblO_9q7PCspa--41" value="NER服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="510" y="310" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9rIJMRtblO_9q7PCspa--43" value="主控服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="9rIJMRtblO_9q7PCspa--43" value="主控服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="510" y="500" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9rIJMRtblO_9q7PCspa--44" value="图2 &amp;nbsp;图片脱敏流程图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
