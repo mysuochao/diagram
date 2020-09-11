@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-18T07:37:49.402Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Safari/605.1.15" etag="FDdYdepr7oepsJbazBIk" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-11T03:26:45.473Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Safari/605.1.15" etag="eNn9WhrPHpqbRXpqk7aG" version="13.6.2" type="github">
   <diagram id="-95pvxMP9tnITGbI-VLl" name="Page-1">
-    <mxGraphModel dx="830" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1070" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,6 +103,12 @@
         </mxCell>
         <mxCell id="9rIJMRtblO_9q7PCspa--44" value="图2 &amp;nbsp;图片脱敏流程图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="274.5" y="860" width="187" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9rIJMRtblO_9q7PCspa--47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="9rIJMRtblO_9q7PCspa--46" target="9rIJMRtblO_9q7PCspa--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9rIJMRtblO_9q7PCspa--46" value="正则实体列表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="461.5" y="393" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
